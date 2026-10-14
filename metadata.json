@@ -1,0 +1,6 @@
+{
+  "name": "VisBuild AI",
+  "description": "AI-Powered Civic Tech OS for transforming public spaces, campus walkways, and municipal corridors into smarter, IRC-103 accessible, and budget-optimized civic assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
